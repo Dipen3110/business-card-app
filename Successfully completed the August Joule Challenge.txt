@@ -1,0 +1,28 @@
+Successfully completed the August Developer Challenge – New Joule Studio.
+
+
+https://lnkd.in/ddFPtyzJ
+
+
+Week 1: Joule -- understanding SAP's push toward the "Autonomous Enterprise," where specialized AI agents run end-to-end business processes.
+
+
+
+Week 2: Joule Studio -- Covered SAP Business AI Platform pillars, intent-based development, and n8n integration. Key takeaway — how New Joule Studio differs from Classic.
+
+
+
+Week 3: n8n -- getting hands-on with 𝗻𝟴𝗻 - workflow automation platform that orchestrates AI agents and business process integrations across the whole enterprise stack.
+
+
+
+Week 4: Vercel -- building ultrafast, modern frontends (using React and Next.js) for AI agents with Vercel. Understanding what Vercel, Next.js and v0 are and how they are connected to each other.
+
+
+
+Kudos to our Developer advocates Rekha DR, Daniel Wroblewski, Shrinivasan Neelamegam
+
+
+
+#SAP #JouleStudio #Vercel #n8n #SAPDevelopers #SAPBTP #AgenticAI #SAPCommunity #DeveloperChallenge #Nextjs
+
